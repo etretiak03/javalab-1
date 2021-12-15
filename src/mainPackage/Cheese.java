@@ -1,4 +1,4 @@
-gitpackage mainPackage;
+package mainPackage;
 
 public class Cheese extends Food{
     public static final String FOOD_NAME = "Сыр";
